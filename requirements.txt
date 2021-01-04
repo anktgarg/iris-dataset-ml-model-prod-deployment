@@ -1,0 +1,4 @@
+Flask
+numpy
+scikit-learn
+mod_wsgi
